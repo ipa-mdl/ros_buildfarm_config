@@ -11,6 +11,8 @@ notifications:
   - mathias.luedtke@ipa.fraunhofer.de
   maintainers: false
   committers: false
+maintainers: #needed?
+  committers: false
 sync:
   package_count: 1300
 repositories:
