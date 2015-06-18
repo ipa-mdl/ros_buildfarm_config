@@ -2,7 +2,7 @@
 # ROS buildfarm release-build file
 ---
 package_whitelist:
-  - roscpp
+- roscpp
 skip_ignored_packages: true
 abi_incompatibility_assumed: true
 jenkins_binary_job_priority: 83
