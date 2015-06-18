@@ -1,7 +1,8 @@
 %YAML 1.1
 # ROS buildfarm release-build file
 ---
-package_whitelist: [roscpp]
+package_whitelist:
+  - roscpp
 skip_ignored_packages: true
 abi_incompatibility_assumed: true
 jenkins_binary_job_priority: 83
