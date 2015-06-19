@@ -2,7 +2,7 @@
 # ROS buildfarm index file
 ---
 distributions:
-  indigo:
+  ipa-indigo:
     notification_emails:
     - mathias.luedtke@ipa.fraunhofer.de
     release_builds:
@@ -45,7 +45,7 @@ prerequisites:
     xaePFwP+okKW1h9qvwFhNF0JSCtdJrexdCf8jGE7
     =E8ot
     -----END PGP PUBLIC KEY BLOCK-----
-rosdistro_index_url: https://raw.githubusercontent.com/ros/rosdistro/master/index.yaml
+rosdistro_index_url: https://raw.githubusercontent.com/ipa-mdl/rosdistro/ec2test/index.yaml
 status_page_repositories:
   default:
   - http://192.168.42.22/ubuntu/building
