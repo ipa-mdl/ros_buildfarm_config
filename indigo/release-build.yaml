@@ -2,7 +2,12 @@
 # ROS buildfarm release-build file
 ---
 package_whitelist:
-- roscpp
+- canopen_402
+- canopen_chain_node
+- canopen_master
+- canopen_motor_node
+- ros_canopen
+- socketcan_interface
 skip_ignored_packages: true
 abi_incompatibility_assumed: true
 jenkins_binary_job_priority: 83
