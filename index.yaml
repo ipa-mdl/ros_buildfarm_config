@@ -2,7 +2,7 @@
 # ROS buildfarm index file
 ---
 distributions:
-  ipa-indigo:
+  indigo:
     notification_emails:
     - mathias.luedtke@ipa.fraunhofer.de
     release_builds:
