@@ -8,7 +8,7 @@ package_whitelist:
 - canopen_motor_node
 - ros_canopen
 - socketcan_interface
-#skip_ignored_packages: true
+skip_ignored_packages: true
 abi_incompatibility_assumed: true
 jenkins_binary_job_priority: 83
 jenkins_binary_job_timeout: 120
